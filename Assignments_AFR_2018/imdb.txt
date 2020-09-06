@@ -1,0 +1,747 @@
+class,clean_text
+0,slow moving aimless movie distressed drifting young man
+0,not sure lost flat characters audience nearly half walked
+0,attempting artiness black white clever camera angles movie disappointed became even ridiculous acting poor plot lines almost non existent
+0,little music anything speak
+1,best scene movie gerardo trying find song keeps running head
+0,rest movie lacks art charm meaning emptiness works guess empty
+0,wasted two hours
+1,saw movie today thought good effort good messages kids
+0,bit predictable
+1,loved casting jimmy buffet science teacher
+1,baby owls adorable
+1,movie showed lot florida best made look appealing
+1,songs best muppets hilarious
+1,cool
+1,right case movie delivers everything almost right face
+0,average acting main person low budget clearly see
+1,review long overdue since consider tale two sisters single greatest film ever made
+1,put gem movie terms screenplay cinematography acting post production editing directing aspect film making
+1,practically perfect true masterpiece sea faux masterpieces
+0,structure film easily tightly constructed history cinema think no film something vitally important occurs every minute words content level film enough easily fill dozen films anyone right mind ask anything movie quite simply highest superlative form cinema imaginable yes film require rather significant amount puzzle solving pieces fit together create beautiful picture short film certainly pulls no punches graphics far best part game number one best th game series deserves strong love insane game massive levels massive unlockable characters massive game waste money game kind money wasted properly actually graphics good time today graphics crap say canada fun game aye game rocks buy play enjoy love pure brilliance flick doomed conception idea lame take minor character mediocre film make complete non sequel changing tone pg rated family movie not least bit interested not confirm film would unfunny generic also managed give away entire movie not exaggerating every moment every plot point every joke told trailer not funny even talented carrell not save co stars not fare much better people like morgan freeman jonah hill ed helms wasted story predictable lazy real effects work presence animals integration scenes worst obvious blue green screen work ever seen whatever cost much not translate quality sure film succeeds despite perhaps obviously meagre budget glad film not go obvious choice lesser film certainly would addition one lovely songs ever written french cancan also boasts one cutest leading ladies ever grace screen hard not fall head heels love girl negative insipid enough cause regret another hours life wasted front screen long whiny pointless recommend waiting future efforts let one go excellent cast story line performances totally believable anne heche utterly convincing sam shepard portrayal gung ho marine sobering sat riveted tv screen give one resounding think tom hanks good actor enjoyed reading book children little disappointed movie one character totally annoying voice gives feeling fingernails chalkboard totally unnecessary train roller coaster scene absolutely no warmth charm scenes characters movie totally grates nerves performances not improved improvisation actors twice much worry not whether delivering line well whether line good quite honestly often not good often dialogue not really follow one line another fit surroundings crackles unpredictable youthful energy honestly found hard follow concentrate meanders badly generally great things would not say worth hours time though suspense builders good cross line g pg especially liked non cliche choices parents movies could predict dialog verbatim writing movie made better selections want movie not gross gives chills great choice alexander nevsky great film amazing film artist one important whoever lived glad pretentious piece not planned dodge stratus big shots gonna help movie makers not restrained movie business qu bec
+1,first movie given years
+1,ever movie needed word mouth promote
+1,overall film interesting thought provoking
+1,plus well paced suited relatively short run time
+1,give one look
+1,gave
+1,wind lion well written superbly acted
+1,true classic
+1,actually turned pretty decent far b list horror suspense films go
+1,definitely worth checking
+0,problem script
+0,horrendous
+0,nothing believable
+0,suspense feeling frustration retarded girls
+1,manna heaven terrific film predictable unpredictable time
+1,scenes often funny occasionally touching characters evaluate lives going
+1,cast veteran actors nostalgia trip
+1,ursula burton portrayal nun touching funny time making fun nuns church
+1,looking movie terrific cast good music including shirley jones rendition way look tonight uplifting ending give one try
+1,not think disappointed
+0,frankly cotton club unfaithful kind embarrassing watch lane gere film bad
+0,acting bad dialogs extremely shallow insincere
+0,predictable even chick flick
+0,politically correct
+0,disappointing
+1,thing really worth watching scenery house beautiful
+0,love lane never seen movie lousy
+0,hour half wish could bring back
+1,terms writing fresh bold
+1,acting helps writing along well maybe idiot savant sister could played better real joy watch
+0,directing cinematography not quite good
+0,movie boring sometimes found occupied peaking paper instead watching never happened columbo movie
+0,sometimes embarrassing look away
+0,directing seems pretentious
+0,scenes oh mature neighbour girl misplace
+0,generally lines plot weaker average episode
+0,scene debated whether not sack trumpeter falsely accused murder pure horror really stupid
+1,applause given prelude however
+1,really liked
+1,great film great director
+1,movie edge seat made somewhat afraid go car end night
+1,music film really nice
+1,would advise anyone go see
+1,brilliant
+1,liked movie way much
+0,problem thought actor playing villain low rent michael ironside
+1,rocked world certainly must see anyone no social physical outlets
+0,however not make fact overall tremendously boring movie
+0,no chemistry ben affleck sandra bullock film could not understand would consider even leaving wife chick supposedly knocked
+0,several moments movie not need excruciatingly slow moving
+0,poor remake best friends wedding
+0,great disappointment
+0,cannot believe actors agreed film
+0,could not stand even watch long fear losing q
+0,guess nobody network aired dribble watched putting
+0,imdb ratings go low awful time get negative numbers cases
+0,saw mirrormask last night unsatisfactory experience
+0,unfortunately inexperience direction meant scene scene passed little way dramatic tension conflict
+0,central themes film handled ineptly stereotypically no depth imagination
+0,pretty pictures world cannot make piece work flawed core
+0,hour half waste time following bunch pretty high schoolers whine cry life
+0,not relate hell barely understand
+1,definitely cult classic well worth viewing sharing others
+0,movie pure disaster story stupid editing worst seen confuses incredibly
+0,fish badly made underwater shots repeated thousand times film
+0,truly truly bad film
+0,acting terrible writing worse
+0,possible way movie could redeemed would fodder
+0,paid much
+1,also real treat see anthony quinn playing crazy horse
+0,boring
+0,no plot whatsoever
+0,no plot
+0,horrible
+0,worst hour half life oh gosh
+0,walk theatre minutes get relief
+0,hate movies like
+0,yeah movie pretty much sucked
+0,no plot storyline
+0,go see movie bring pillow girlfriend boyfriend keep occupied
+0,awful
+0,not think ever gone movie disliked much
+0,good thing tickets cost five dollars would mad would paid see crap
+0,nobody identifies characters cardboard cutouts stereotypes predictably reverse stereotypes
+0,bad film bad writing good actors ugly cartoon crafted paul haggis people not handle anything bold strokes storytelling picture painted crayons
+0,crash depressing little nothing provokes emotion teaches nothing already know racism prejudice bad things
+1,still like movie empowerment women not enough movies like one
+0,brain attempt shut part primal impulse self preservation
+0,left shattered experience watching film took good two hours fully recover
+0,movie joins revenge boogeyman zombiez part hellish trinity horror films
+0,certainly not mean distinction good way
+0,mean terrible way
+0,film no redeeming features
+0,everything appalling
+0,artless camera work endlessly presents us ugliest setting imaginable e
+0,story beyond stupid
+0,script script
+0,kids annoying
+0,lead man charisma free
+0,utterly without merit level akin torture
+0,even say torture
+0,maybe would reasonable explanation atrocity
+0,not pleasant voyage self discovery
+0,highly unrecommended
+0,premise sound stupid
+0,yes bad
+0,nothing recommend
+1,excellent performance ms
+1,garbo showed right bat talents could carry silent era wanted see silent work netflix not seem stocking
+1,also great see renowned silent screenwriter frances marion not missed step going silent sound
+0,movie suffered writing needed suspense
+0,many close ups
+0,movie seemed drag heroes not really work freedom
+0,movie definitely average rent
+1,love movie bad bad film way long definitely one bad ones movie received great quality film age john wayne incredible job young movie industry screen presence shined thought even though senior actors screen think must see older john wayne film really not see anyone could enjoy movie not think ever seen movie half boring self indulgent piece junk probably would better director not spent movie showcasing art work really not noteworthy another thing not really like character got punched face gallon blood would spew forth soon jamie foxx absolutely ray charles performance simply genius owns film spacek owned coal miner daughter quaid owned great balls fire
+0,fact hard remember part ray charles acted not played man ray charles legendary ray charles life provided excellent biographical material film goes well beyond another movie musician hitchcock great director ironically mostly find films total waste time watch secondly hitchcock pretty much perfected thriller chase movie pandering audience sabotages films hence whole story lacks certain energy plot simply rumbles like machine desperately depending addition new scenes usual hitchcock logic flaws mishima extremely uninteresting chilly unremarkable movie author living working chilly abstruse culture flat reenactments not hold attention emotionally adrift stagy rest sits awful soldiers singing songs masculinity pledge hairsplitting purity admiration swords etc bore pieces kill momentum movie quicker anyone else schrader made resume full lousy amateurish films first watched movie loved totally fascinated music dancing everything however recently watched whole thing dvd completely struck extremely stupid storyline contained holes inconsistencies frankly whole lot crap horrid dancing mean realistic world would never gotten ballet repertory whole thing quite pathetic character developments also lacked depth woa talk awful not waste time horrible worst sappiest dialogue could go really made unwatchable direction poor actors not even tell talent not pathetic lines speak director gave no action check director filmography site see film not chance would not even good made tv flick good intentions made film great film might one greatest films ever made film great actors master director significant theme least would significant theme undertone fifties existential world weariness aerial scenes ought thrilled senses imagination characters one might deeply care regrettably film fails movie lacks visual interest drama expression feeling celebration patriotism underlines narrative no actress worse used june allison movie yet enjoy watching unfortunately bad movie plain bad bad script bad direction horrible acting make one plain bad dialogue sucked cinematography called sucked soundtrack sucked acting sucked concert sequences sucked nice funny funny overall movie cheap trash movie not funny considering ridiculousness came feeling angry spoilers whatever else not said surface superbly crafted cinematography simply stunning say least fx nothing not state art conceptually show offers little bit everything everybody parents kids fantasy fx fans not single sour note struck acting wise either surprisingly solid casting things considered job well done thanks good movie like done released one best mexican movies ever one less understood even mexican no matter identified felt ranks highly great noir crime drama incredible performances belmondo lino ventura attention given every character complex psychological portrayals detailing loyalty treachery love hope tremendous excellent drama excellent thriller excellent film best melville everything film simply incredible truly take journey eyes soul child black water thriller manages completely transcend limitations indie flick continually subverting expectations emerge intense experience performances real gripping crocdodile extremely well done indeed black water website believed used real crocs swamp location fabulous thoroughly enjoyed christopher eccleston took control tardis continuation series not sure trying film turn good day feeling night disturbing memories guess succeeded lot beautiful places forced like everything movie lame movie really pi ed not even get started jerky camerawork saw theater thought going sick summary witticisms not witty plot well said would let one go acting bad really bad even billy bob could not rise script worse camerawork bad rating amazing finale possibly best trilogy time kieslowski never ceases amaze one favourite directors one talented directors history cinema use colours french flag three films nothing short incredible every shot every scene like work art three visually appealing movies ever seen subtle connections three films awesome mention huge spoiler loved ending characters three films remaining survivors ferry disaster valentine young judge together old man watching tv solidifying happiness suffering dealt many years could not think better way end film smile face great way wrap amazing film trilogy recommend everyone loves film movies anything work art movie trilogy literally vomited watching film think one people found another one roth pearls performance awarded stunning story told eloquently francis ford coppola years earlier really unfolds gradually leaves room characters develop wonderful location lies story contrast beautiful directed film nicola roeg wih sublime cast translating movies living first movie working experience found offensive intelligence someone strives greatness poetry delivers muddled often ridiculous story bunch disparate scenes pretentious dialogue get worst kind movie reviewer accurately defined pretentious crap
+0,find movie intelligent even masterful say intelligence imagination obviously used try make sense pitiful attempt human nature try make sense things
+0,one thing tolerate political incorrectness well artistic freedom suspension disbelief slavic female character much
+1,fun funny movie
+1,highly entertaining angles
+1,features outlandish array memorable psychotic lovable nuts
+1,enjoyment get see run around play games dangerous
+1,even sweet moments
+1,telephone repair man really funny reactions nuts bitchy boss truly genuine
+1,characters film tremendously well played
+1,really find funny
+1,actually smart movie
+1,brilliant twist ending
+0,love ending perfect shed tear thrilled seeing movie like never forget not cult cult classic depth character man underneath malta settings dry barren dialogue movie terrible hockey scenes terrible defensemen playing like years old goalies diving shots feet wide net etc not seen not waste time call movie drama ridiculous started watching not believe characters particular relationship bakery assistant waitress not work superficial movie gave feeling watching play rather film characters istagey storyline lot like stage farce time pyromaniac waylaid assistant bored not care happened next switched glad not pay see not laugh even smile not anything one big yawn really good show watch educational children years old barney definitely super de duper pretty funny babie bop cute kids cool storm trooper not even bad enough make list wonderfully terrible movies
+0,lame
+0,guy said better dialogue potted plants right
+0,everything movie stupid
+0,even love bad movies not watch movie
+0,shameful
+1,would give television series plus could
+1,writers smack think best actors actresses bonus show characters real
+1,must say taped episodes find watching
+1,know gave
+1,not know exactly movie latched endearing movie become special part family memories
+1,totally absolutely recommend movie anyone likes good wholesome family movies exactly
+1,things four kids get absolutely hilarious watch
+1,one best movies shows strong sibling bond
+1,much interesting action suspense less unneeded controversy
+1,everything acting cinematography solid
+1,definitely worth checking
+1,damian talented versatile many ways writing portraying different characters screen
+1,movie cutting edge
+1,pleased know modern day genius letting passion art drive taking us audience
+0,new characters not memorable found forgetting
+0,felt though going ireland absolutely nothing whatsoever
+0,not make scared horrified make sympathetic towards characters simply annoying
+0,jerky camera movements also annoying
+0,plot pretty much every cheap horror
+0,pathetic attempts give characters depth not really work rest plot
+0,guess supposed clever twist shed light situation stupid
+0,see probably leave shelf
+1,elias koteas jack palance play good roles angelina hot gets naked billy drago appears cool usual cameo sven ole thorsen helps make enjoyable movie good acting decent budget
+1,awesome movie bought ebay
+1,really loved story line poler bear kinda cute anyone question fort steele ask away
+0,totally unfunny movie top pathetic unrealistic throughout whole minutes utter torture probably looked watch times
+0,lucy bell much higher crap sink low quite depressing
+0,movie make sick watching slackers make excuses stupid actions minutes
+0,god never get minutes back
+1,think wonderful parts literally full wonder excerpts works
+1,sets especially designed work camera amazing stylized beautiful effective
+1,could used exemplars set designer
+1,stories powerful explorations nature man art
+1,watching film wanted learn works artist
+1,highly recommend movie anyone interested art poetry theater politics japanese history
+1,wind lion see wonderful rendering america imperial age
+1,makes story different terrific production values faultless photography composition editing terrific casting underappreciated brian keith playing bully teddy vivid history
+1,though wind lion told largely eyes son every member family identify one characters whether sean connery noble brigand candace bergen feisty heroine john huston wily john hay steve kanaly spiffy radiant ruthless lieutenant roosevelt big stick
+1,high adventure best
+1,think robert ryans best film portrayed someone like father schizophrenic real life father although never murdered anyone affected second world war made worse
+1,humour get get day apt
+1,mother brother saw robert ryan portraying type man good imitation type individual impressed
+0,almost songs cover girl old fashioned not tuneful
+0,annoying thing cover girl way rita hayworth put pedestal
+0,unfortunately cover girl example hollywood used exploit women financial gain
+1,non linear narration thus many flashbacks every part articulated quite well
+1,good cinematography also makes monica bellucci look beautiful
+1,good commentary today love undoubtedly film worth seeing
+1,people first timers film making think excellent job
+1,popular cinema good house good reactions plenty laughs
+1,feel good film felt came cinema
+1,northern humour positive community represents
+1,rather enjoyed
+1,liked
+0,could not take seriously
+1,really created unique feeling though
+1,vivian schilling excellent job script
+1,world better garbage theatres today
+1,role played well
+1,not screamy not masculine right
+1,camera really likes movie
+1,would casted role ready script
+1,european movie nice throwback time student experiences living abroad interacting nationalities although circumstances slightly different
+0,fan movie sucked really bad
+0,even worse ticker
+0,movie bad
+0,like buildings used couple locations maybe poor hummh
+0,blew
+1,movie excellent angel beautiful scamp adorable little yelps hes scared funniest parts scamp caught curtain angel scamp singing ive never feeling totally recommend movie coming special edition june cover scamp garbage angel underneath lid
+1,cant explain movie romantic charming hilarious adorable junkyard scenes funny junkyard dogs something special funny laughed kids love buy comes new features
+0,chosen tortured disgusting piece blatant american propaganda
+0,show made americans stupid full hatred clich admitted elsewhere
+0,almost everyone involved must return school acting utterly predictable bad script pile garbage round
+0,wish could enter negative values admins
+0,sets bad would not look place thunderbirds episode
+0,use slow motion needlessly repeats throughout movie well backed bad acting bad kind word no continuity scenes thrown no reason whatsoever vehicles looked like made corn flakes box directorial style bordered stupidity
+0,oh yeah storyline pathetic
+0,hate writing bad reviews films especially really like star film bad not believe one second anyone could proud
+0,not filmmaker nor director would hide head sand would spent whatever amount money time movie
+0,short monumental waste time energy would not recommend anyone ever see film
+0,came free dvd player bought still turned thing halfway embarrassed howell
+0,no setting
+1,interesting premise billy drago always good dangerous nut bag side note would love see drago stephen mchattie lance hendrikson flick together talk raging cheekbones
+1,soundtrack not terrible either
+0,acting even professionals drago debbie rochon terrible directing worse perhaps contributory former dialog chimp like camera work barely tolerable
+1,still sets got big oy vey scale
+0,yes simplifying things sake brevity really core problems film much going without real fulfilling explanation
+1,good jobs quite amusing
+0,convoluted plot not convince much film watched weird questioning glance
+0,let girlfriend talk seeing bad idea hated
+1,last minutes movie also not bad well
+0,bela lugosi totally extraneous intoning odd lines
+0,acting decidely wooden though no worse period universal b movie
+1,like armand assante cable company summary sounded interesting watched twice already probably
+1,believe screenwriter good job tying loose ends
+1,score mostly plot
+1,not say not like spoilers not want one believe film worth time
+0,wow bad film
+0,not frightening least barely comprehensible
+0,plot not hang together acting absolutely appalling
+0,not even good camp value
+0,not expecting oscar material
+0,would iq particularly stupid mollusk not see one coming
+0,film use word loosely insult movie going public
+0,someone involved knew string together narrative
+0,gets simply nothing lower
+0,one not watched recently fox movie channel disappointed
+0,know contract player little control scripts acting bad script
+0,victor mclaglen even bad brian donlevy almost unrecognizable
+0,considering relations screen taylor stanwyck surprising little chemistry screen two
+0,premise film ridiculous president u
+0,death row scenes entirely unmoving
+0,thing worse taylor acting stanwyck singing
+0,whatever producer going missed entirely
+1,deeply impressed character played
+1,knew saw film great things come gifted actor
+0,cheap cheerless heist movie poor characterisation lots underbite style stoic emoting think chow yun fat better tomorrow cheesy clich thrown abandoned factory ready poorly executed flying judo rolls la john woo
+0,even squibs look awful
+0,no point proceedings look remotely like america
+0,plot derivative predictable ending like mercy killing
+0,awful dialogue hopeless overacting everyone gets shot top real waste space time
+0,uneasy bad movie not scared
+0,dialogue composed things make little sense
+0,minutes footage wasted show mediocre elderly actors awkwardly babbling overwrought pseudo satanic gibberish corny enough make teen goth blush almost always olde english sometimes latin may may not made words
+0,directing sloppy best
+0,hackneyed writing certainly made even worse bad directing
+0,course acting blah
+0,acting whole cast could put scale balanced perfectly overacting underacting
+0,finally get ending would great handled competent people not jerry falwell
+1,loved movie great portrayal family share ups end knew special love
+1,seen many movies starring jaclyn smith god one best though came years ago
+1,movie contained star cast loved opened eyes see actors not seen
+1,movie kind long length enjoyed every minute
+1,overall rate movie scale
+1,lifetime not air enough anyone knows store sells let know must
+0,particularly remember senses assaulted strident cords music would blare little warning even less meaning
+0,sort pap screened afternoon punish unemployed not jobs
+1,totally different loads understatement black comedy film get see remember
+1,movie creates universe fascinating every way
+1,movie really got
+1,see
+1,really hope team behind movie makes movies continue kinda weird style
+1,forgot casting superb trond fausa aurv g perfect role bothersome man not understand
+1,movie good humorous comment life
+1,found move beautiful enjoyable uplifting
+1,initially local sites film filmed buffalo intrigued
+1,later found lost power film
+1,entire audience applauded conclusion film
+1,left theater lilt step joy heart hope human race
+1,duris wholesome appearance gives fine performance
+1,rest cast also play well
+1,cinematography noteworthy including fine views barcelona famed gaudi towers
+0,ten minutes film started second thoughts
+0,half way film started dislike
+0,time film ended not disliked despised
+0,film lacks convincing script
+0,script looks rough draft written shooting began finished script completed
+0,things happen characters personalities change plot twists occur no real reason script calls
+1,cast good
+1,worth checking
+0,probably irritating show ever seen entire life
+0,indescribably annoying idiotic show ever seen
+0,everything bad
+0,could not understand kind idiot would produce mess first place not mention several season
+0,script bad bad contains cheesiness unethical joke normally see rated r movie
+0,casting also horrible cause see really really bad actors period
+0,final word show real torture
+0,zillion times away reality
+0,watching washing machine twirling around would not hurt eyes much show
+0,rating grade z note show bad even mother cast pull daughter show
+0,century fox road house not quite silly noir implausible unmitigated bore movie
+0,full unconvincing cardboard characters blandly written edward chodorov also produced surprisingly directed jean negulesco one would expect great deal
+0,widmark character turns unintentionally comical
+0,losing marbles early proceedings totally implausible unconvincing
+0,not enough mess movie picture also marred constant use studio sets indoor exteriors
+0,whatever prompted documentary beyond
+0,serious spoilers movie huge disappointment
+0,many problems dont know start
+1,cast great
+1,steve martin delivers really funny performance middle aged upper class uptight white guy
+1,add betty white jean smart great cast everyone played parts really well
+0,movie makes lot serious mistakes
+0,first enough racial stereotypes racial jokes offend everyone
+0,movie littered overt racial slurs towards black cast members return whites depicted morons boobs
+0,putting race card aside lets look major flaw film destroy latifa character
+0,no real plot
+0,wouldnt see movie free
+1,steamboat willie amazingly important film cinema history
+1,second appearance mickey mouse following silent plane crazy earlier year probably famous film mostly ground breaking
+1,not yet hear mickey speak tons sound effects music throughout film something take granted huge crowd pleaser
+1,however seeing short years amazed timeless film actually
+1,adorable seeing mickey playing turkey straw highly imaginative occasionally cruel way
+1,clever real crowd pleaser film still ranks among mickey best films even wonderful years
+0,bipolarity ruthless thug one minute ruthless killer next minute luv diaper commercial completely unconvincing
+0,terribly disappointed film would receive many awards accolades especially far deserving works film
+1,original body soul masterpiece
+1,john garfield ann revere lilli plmer william conrad canada lee filmed one greatest cinematographers ever grace screen james wong howe
+0,not think redeeming qualities remake
+0,may bad film ever made
+0,bad well bad
+0,movie solid example bad plot bad idea way
+0,shame see good actors like thomerson james make living mess like
+0,thought bad
+0,films terrible credit version watchable
+0,let start problems acting especially lead professor bad
+0,script big flawed mess
+0,best example dumb writing established turn zombie students back humans removing necklace containing piece meteorite
+0,director paul matthews also wrote directed weak monster movie grim clearly not know pace films
+0,movie terribly boring places
+0,lighting awful
+0,film looks cheap bland
+0,one disappointing aspects lack notable gore
+0,convention never worked well past certainly not work
+0,visual effects awful
+0,cg opening sequence space looked like could created microsoft slideshow god sake
+0,explosion gas tanks end awful
+1,okay like consider fair critic give credit credit due creature effects actually pretty cool
+1,gotta love close ups slimy drooling teeth
+0,sum film breeders terrible cheaply made horror movie avoided like ebola virus
+0,not recommended
+0,almost unbearable watch screen little no charisma terrible comedic timing
+0,aside terrible lead film loads debits
+0,understand supposed cheap popcorn comedy not mean completely insult intelligence writing incredibly hackneyed borders offensive
+0,lewis black considerable talent wasted incendiary unrestrained rating certainly not allow
+1,film sole bright spot jonah hill look almost unrecognizable fans recent superbad due amount weight lost interim
+0,originality freshness first movie spent remake little else offer
+0,budget evidently limited
+0,reflected not cast also par script borrowed much earlier classic
+0,however no decent acting action location work balance things
+0,filmiing less expansive
+0,failed convey broad sweep landscapes great part original
+0,generally lacked imagination
+0,not recommended
+0,possible movie get worse
+0,no plot keep going first place
+0,even women finally show no sign improvement expected things happen time film might far asleep
+0,beware not trashy cult movie trash period
+0,not believe even sequel
+0,precisely giving bad review
+1,child truly enjoyed show proudly say enjoyed big time even classical wb cartoons
+1,tiny toons kept vibe delivered one popular funny underrated cartoons ever created
+1,memories murky say enjoyed every single episode product related show
+1,easily none cartoon made laugh tender way getting dark sitcoms oriented teenagers
+1,characters funny peculiarity not true lead character
+1,every single character hilarious deserved called lead
+0,every element story top excessively phony contrived painful sit
+0,lines seem written fifteen year old though trying oh hard sound like fifteen year old would really um know well talk
+1,perabo nice energy level obviously comfortable front camera
+0,simply no excuse something poorly done
+0,saw movie thought stupid movie
+0,even stupid thought idea volcano los angeles
+0,honest unbelievable nonsense foolish
+0,conclusion not bother movie volcano los angeles nothing nonsense
+0,story line awful
+0,painful
+0,accents absolutely abysmal
+0,also enough hypocrisy film make vomit
+0,not waste time watching rubbish non researched film
+1,believe pitch black done well
+1,characters interesting want find longer movie goes think people surprised not make
+1,go watch
+0,omit watching
+1,funny
+0,rating
+1,characters interesting really care
+1,instant classic great soundtrack catchy song ending credits
+1,not miss
+1,masterful piece film making many themes simmering occasionally boiling warts study poet bohemian self indulgent wartime years span aerial bombardments london outward tranquillity welsh coastal retreat borderlines friendship lust love dedication art experience versus practical concerns jealousy rivalry cowardice egotism versus heroism self sacrifice
+1,mature subtle script suggests occasionally brings dramatic focus underlying tensions well served perfect performances apart odd inappropriate smiling keira knightley prone though perhaps direction time characters often mention
+1,exquisite visual composition moment inventive elegant use close camera angle lighting including pointillistic faux home movie footage wonder joy behold
+1,continuously beautiful look bertolucci relationships convincing narrative engaging master work
+0,basic premise wasted since sidelined inexplicable focus documentary crew
+0,regardless film fails levels
+0,avoid costs
+1,saw film christmas great film
+1,thought errol flynn brilliant custer since become favourite actor
+1,acting alongside olivia de havilland brilliant ending fantastic
+1,always known errol flynn brilliant actor dads favourite actor grew watching films child
+1,not watched film realised great actually
+1,give film
+0,know jim connor energetic nobody could much george well dull
+0,really not seem want hosting voice overs monotonous not get involved guests
+1,lovely little thriller hitchcock lots nice shenanigans surrounding murdered spy kidnapped child nasty church foreign plot random taxidermists
+1,jimmy stewart ever great hero hitchcock story rips along cool climax embassy function lacks brooding menace hitchcock black white low budget original
+1,nevertheless yet another wonderful film great master stable
+1,say film excellently produced tops ratings typical sci fi film
+1,excellently produced one sci fi best producers scot vandiver
+1,entertaining nonetheless
+1,campy sort film joy watch
+1,barely boring moment film plenty humorous parts
+1,cast always entertaining usual
+1,overall delight
+0,movie mind bendingly awful could not even created
+0,film lacks real scares tension medical terminology used throughout bit iffy say least say insulin dependant diabetic
+0,least said acting better
+1,movie excellent job revealing complexity task incredible challenges facing south africa
+1,believe every one see movie think people outside south africa understand past attempted truth reconciliation process
+1,nothing short magnificent photography cinematography film
+1,acting fantastic stories seamlessly woven together dogs splendid must rent view see
+1,not afraid subtitles worth little aversion therapy
+1,excellent performance
+1,still good actors around
+1,also great directing photography
+1,true shakespear amust shakespear fans
+1,macbeth jason connery moved tears final monolog brief candle gave sphere moral decay dark forces human face makes interesting
+1,helen baxendale credible lady macbeth cheerfull times sometimes looks like naughty girl deadly taste blood evil
+1,love death decay shakespears lyrics one
+1,witty delightful adaptation dr seuss book brilliantly animated upa finest thoroughly deserving academy award
+1,special mention made superb music score sound effects integral element helping make memorable enjoyable cartoon
+1,however paul schrader indeed made film mishima superb complex
+1,also notable john bailey fine crisp beautifully colored cinematography great production design costumes eiko ishioka went memorable costumes coppola dracula received well deserved oscar
+0,even allowing poor production values time format kind mini series baaaaaad
+0,unless visually collect extant films austen work skip one
+1,watch however small consolations actresses playing anne sisters wonderful job roles
+0,not good
+0,speaking music unbearably predictably kitchy
+0,film dropped ball
+1,stunning movie
+1,raw sublimely moving
+1,felt like gripping intelligent stage play without overly theatrical feeling one actually gets watching people stage plays everyone terror white lie escalating monstrous consequences
+1,main players mesmerising
+1,tom wilkinson broke heart end everyone else judging amount fumbling hankies hands going faces among males females alike
+1,julian fellowes triumphed
+1,national treasure
+1,go see
+1,excellent film
+1,aerial scenes well done
+1,also right balance war love
+1,film gives meaning phrase never history human conflict much owed many
+1,kris kristoffersen good movie really makes difference
+1,good film great director
+1,definitely one better documentaries seen looking family relationships marriage
+0,many continuity errors one user commented different cars garage joe glasses one got fact joe facial hair configuration seemed change scene scene
+1,great movie
+1,stars
+0,not see movie inspiration anyone come overcome fear rejection
+0,bad actually worth seeing reason
+1,punishment park brilliant piece cinema
+1,shot southern california desert using patent faux documentary style watkins creates film like no
+1,one peter watkins accessible films
+1,advise look
+1,wont regret
+1,highly recommended
+0,well keep thinking bad
+0,mediocre miserable hollow laughable predictable piece garbage
+0,case iso bad laughable
+0,bad performance plays angela bennett computer expert home time
+0,film nothing pretext show ridiculous action scenes
+0,awful
+0,still bad actress repeating robotic face moves pictures
+0,results well shame
+0,delete film mind
+0,one worst shows time
+0,show would begin smart ass ed comments would totally wall uncalled
+0,fat computer geek unbelievable bible thumper bad ass girl actors
+0,never heard except cole totally unbelievable part
+0,every time opened mouth expect hear see kids pulling plug mercy killing horrible show
+0,stories unbelievable actors
+0,lame would best way describe
+1,stanwyck morgan perfectly cast many ways modern equivalent dickens christmas carol sensibility
+1,success film depends casting sydney greenstreet alexander yardley character
+1,attractive set used throughout film eye pleasing gem
+0,im big fan rpg games movie disgrace self respecting rpger
+0,lines cuts audio everything wrong
+0,find better movies youtube
+0,top line not waste time money one bad comes
+0,lassie movie put sleep forever
+0,would describe painfully dreary time waster film
+0,mediocre every aspect becomes dull uninteresting mess one forgettable movies seen
+0,not even achievement bad good bad memorable movie
+0,empty hollow shell movie
+0,seriously not worth wasting kid time
+0,avoid avoid avoid
+0,drive barking mad
+1,transfers good
+1,nice relaxing late night viewing
+1,movie full wonderful dancing hence title
+1,great music terrific scenery
+1,handles tough issues dignity grace course shocking spoiler
+1,happy wonderful feel good ending
+1,point journey journey touches every member family
+1,one movies need see whenever comes tv never mind fact already memorized
+0,nothing new
+0,done second movie
+0,movie almost no action scenes little comedy
+0,plot holes pair fishnet stockings direction editing astonishingly ham fisted
+0,earth irons film
+1,saw film recommend
+1,good plot holds complete attention acting superb tom wilkinson fantastic emily watson also good
+1,good film indeed great unconditional love
+1,tom wilkinson character man not prepared ordeal begin takes matter hand story progresses great actor gives performance makes feel character anguish suffering
+1,emily watson character strong give quick glance understand everything
+1,despite pans reviewers liked movie
+1,fact liked better interview vampire liked lestat stuart townsend better cruise attempt
+1,aailiyah pretty good akasha places compelling first entrance mini dance scene
+1,big fan series mostly due anne rice style sensitivities treatments
+1,guess liked details dysfunction believable
+0,football scenes end perplexing
+1,thought acting skilled
+1,meredith better right
+1,charming film wonderful sentiment heart
+1,rare film maker takes time tell worthy moral tale care love not fall trap overly syrupy indulgent
+1,nine ten truly lovely film
+1,early film future goremeister lucio fulci good addition giallo sub genre
+1,one best italian thrillers early
+1,standout scene
+0,scene strong unpleasant
+1,technically film well made impressive camera work solid acting effective music riz ortolani particularly good recurring unaccompanied female vocal sounds like coming distant hill
+1,still wild stuff though highly recommended fans giallo cinema
+1,movie interesting beginning end
+1,liked way dustin hoffman character ready everything stay son
+1,movie also revealing
+1,personally think shows people learn find compromise self without involving people issue
+0,boring
+0,tired clich lazy writing come thick fast
+1,ps scene movie cool central character finds room blown
+1,fresh subtle rather sublime effect
+1,italian reviewer called small great film right
+1,actors give wonderful performance especially jennifer rubin jamie harris changes nervous starlet beginning strange events part cool star
+1,learn lot real inside emotions people movie lot movie business
+1,movie movie situations beginning game played acting coach fascinating
+1,also music mark snow possibly best score ever heard
+1,not forget movie
+0,film made
+0,film ultra cheap look
+0,result film not look right
+0,none engaging exciting
+0,plot nonsense not interest slightest way uniqueness
+0,foreigner not worth one second time
+1,saw child tv back stranger loved
+1,duet astronaut doctor beginning movie perfect exchange one considers movie made well cold war astronaut biggest fear crashed ussr
+1,movie awesome
+1,loved really scary
+1,love scream movies horror movies one ranks way
+1,want real scare rent one
+1,extraordinary film
+1,courtroom drama compelling indictment american justice system frightening
+1,film highlights fundamental flaws legal process not discovering guilt innocence rather presents better court
+1,film well paced understated one best courtroom documentaries seen
+1,mostly routine fact based tv drama gets boost fine performance cole
+1,predictable not bad watch
+1,clear range ability pull part
+1,carries movie well
+1,constantine gives everything right intensity seems good understanding underlying psychological motivations
+1,wonderful inspiring watch hope gets released video dvd
+0,piece trash ever released beyond acting story characters supposedly special effects etc wrong
+0,fact stinker smells like direct video release
+0,avoid costs
+0,star trek v final frontier worst series
+0,acting involved includes like shatner nimoy bad washed making seem old look real life special effects tacky like spock rescue kirk jet pack falls mountain
+0,attempts humor pitiful story awful dose not bear thinking basically involves vulcan stealing enterprise find god seriously not care film oh not mention uhura belly dance distract male guards
+0,place good film garbage
+0,worst one series
+1,editing editing film phenomenal opinion
+1,song could explain emotions subjects better jay adams unfortunate life subject talk song old man neil young played evokes many emotions
+1,cinematography film shot interesting way
+1,course footage grainy enhanced film
+1,film offers many delights surprises
+1,achille philippa beautifully sing duet giovanni perfectly describes situation movie appreciate subtle layers excellent film
+1,story unfolds century jutland use period music played period instruments one fine touch
+1,share general loewenhielm exquisite joy partaking cailles en sarcophage even though watching movie wish small sample savor
+1,understated film leaves lasting impression
+1,warmth generates contrast austere backdrop
+1,leave theater wanting go dance stars
+1,acting would expect cast top notch
+1,characters fleshed surprisingly well particularly grimes blake actors deliver sharply scripted lines right amount deadpan tongue cheek make dialogue hilarious realistic
+1,angus scrimm also turns good performance somewhat brief memorable role gently menacing violin playing anatomist doctor quinn
+1,conclusion loved
+1,long time since entertained movie
+1,struggle find anything bad say
+1,mark words one cult films like evil dead phantasm people still discovering falling love years line
+1,pretty surprising wonderful film made hollywood generally collective heads sand concerning black white issues time
+1,film deserves strong kudos taking stand exceptional acting mostly lesser known cast super intelligent script not insult audience take easy way comes white racism
+1,plus movie rather modest budget fast running time amazing job
+1,juano hernandez exceptional actor played supporting roles many films era proud black man accused murdering white man south
+1,trumbull love lucy
+1,see kids chance open amazing dialog far race relations come last years
+1,see films
+1,year however reminded us huston still top game evinced faithful adaptation james joyce acclaimed novella dead
+1,feelings thoughts gabriel discomfort dance intangibles leap life come within viewer grasp huston portrayal
+0,disappointed wondered could oscar shortlist
+0,slow
+0,lot holes plot nothing became emperor nothing spend years childhood mature age
+0,not waste time
+0,end days one worst big budget action movies ever seen
+0,surely not know make coherent action movie screenwriter air force one obliged write script big sum money
+0,one worst films ever seen
+0,still trying get bad
+1,movie possibly one creative works horror ever
+1,everything could want suspense drama comedy confusing subplots native americans brain eating looking end brainsucking movies look no
+1,great sound effects impressive special effects not recommend movie enough call nut think one best movies ever great character actors telly savalas peter boyle hour minutes sheer tedium melodrama horrible acting mess script sinking feeling good lord thinking lots holes script like bad two hour tv movie imagine every single one decisions made wrong dialogue atrocious acting beyond abysmal everything stinks trouble writing directing make impossible establish things make movie watchable like character story theme worse incredibly weak sub plot thrown follows little band latter day mansonites go reporter working story anniversary killings dumb pointless complete waste time short not bother movie not spoil ending pretty amazing best scene movie end not spoil ever indication writer director ability meld two highly volatile temperaments seamless union creativity result powerhouse achievement made timely perhaps culture disturbing fascination celebrity distorted interpretations fame film not easily forgotten kevin spacey excellent verbal tsunami buddy ackerman totally believable great actor scripting subtle comedy unmatched movie recent years characters interesting even bit predictable highly recommended ages although younger set probably not appreciate subtle references certainly appreciate one galley scene particular great movie also story acting weak around pm bought around started watch around fast forwarded remaining film see anything left watchable human brain not either way sucks script horrendously stupid story starts fast absolutely no suspense build slightest everything captain howdy says either laughable plain stupid hell kind crap plot holes could drive semi truck holes linda cardellini thing good film poised amazing dee snider plain sucks not act one least scary villains ever seen not write write damn movie sleep bored throughout whole damn thing acting sucks music sucks script sucks pacing sucks special fx suck directing sucks basically movie sucks film tries serious sophisticated thriller horror flick fails miserably probably one least effective utterly unoriginal films ever seen entire life piece cinematic garbage captured celluloid avoid costs rate film stinks not funny fulci stayed giallo supernatural zombie movies avoid film costs not know happened season five mess consistent thread holding series together amazing performances leni parker anita laselva two taelons quiet idealogical conflict movie really dislike one boring horror movies mainly starts slow centers boring atmosphere puppets look really cheesy not good way like puppet master flicks story lame not interesting never really explains sinister origins puppets not death scenes like previous movies f x terrible felt asleep first time watched recommend insomniacs fact film wonderful heartwarming tale two people chasing dreams best part nurse betty unpredictability
+1,director neil labute uses brutal violence seperate dreams reality along touching drama hilarious comedy never tell going happen next
+0,otherwise not even waste time
+0,one fails create real suspense
+0,killer not expect anything original even remotely frightening
+1,however pretty good acting least type film
+0,sorry really not recommend anyone
+0,one boring pointless movies ever seen
+0,secondary plot line incomprehensible relation primary plot line mystifying
+0,hated
+0,one worst sandra bullock movie since speed not quite bad
+0,not understand garbage got shelves movie store not even real movie
+0,highly doubt anyone could ever like trash
+0,not movie making
+0,acting like watching wooden puppets moving around reading book bad
+0,warn not rent movie dumbest thing never seen
+1,saw short film hbo day absolutely loved
+1,not realize wonderful short really last two scenes
+1,excellent short film
+1,hopefully director james cox turn short feature length film cast win us whole new film
+0,agree jessica movie pretty bad
+0,characters one dimensional even good guys especially bad guys
+0,story line totally predictable
+1,not much dialogue not much music whole film shot elaborately aesthetically like sculpture
+0,seen soap operas intelligent movie
+0,bad characters bad story bad acting
+0,really awful
+0,not easy watch
+1,funny clever hip like pray previous film hype
+1,long time not see charismatic actor screen
+1,paolo sorrentino written wonderful story loneliness tony built one unforgettable characters seen movies recent years
+1,movie not completely perfect titta di girolamo stay long time vision movie
+1,rate movie
+1,not know emilio estevez directorial debut pacing interplay development characters well clever camera work surrounding character estevez plays suggest natural eye
+1,interplay martin emilio contains wonderful chemistry saw wall street martin charlie
+1,kathy bates wonderful characters subtle desperation escapism variation character play fields lord
+1,readers already seen one miyazaki films still top form made another worthwhile experience
+1,never condescends characters good genuine hearts believable problems
+1,two main characters may two believable children ever saw put screen
+1,easy love even easy identify
+1,movie great especially enjoy visual arts
+1,scenery two daughters paint photograph beautiful
+1,story also funny poignant times
+1,people like european films art movies like movie
+1,truly art movie actually lot art
+1,go rent
+1,however finally watching film realized not closed mind brilliance depicts also found watching
+1,one movie never ceases interest simply keeps alert try attempt decipher meanings
+1,brilliance indeed
+1,liked movies like matrix better yet sequels think appreciate thought provoking mindblowing experience film give
+1,think film like dream
+1,simply beautiful
+1,rickman stowe play roles hilt tale childrens book writer maybe written subversive tract
+1,gloriously fun fast paced fairly accurate portrayal night raver
+1,presents idyllic yet serious portrayal ups downs characters lives
+0,whatever avoid groove antithesis good human traffic
+0,bad everyone else involved not share crowe level dedication quality would far better film hands sub par mess
+0,movie seemed little slow first
+1,picked speed got right point
+1,showed exactly government scientist argued humanity reasons gadget
+1,enjoyed
+1,recommended friends
+1,particularly pleased acting ability dwight schultz
+1,actors truly understand become particular character delivering convincing sincere performance
+1,screen chemistry critical entire film genuine
+1,film dialogue natural real life
+1,writer gorman bechard undoubtedly homework references industry character age appropriate
+1,incredible soundtrack truly captures essence film
+1,track commands sentiment actually contributing scenes characters
+1,definitely worth seeing sort thought provoking film forces question threshold loneliness
+1,hayao miyazaki latest eighth film studio ghibili gake no ue no ponyo ponyo cliff sea wonderfully fun imaginative look childhood
+1,time seems film animation dominated disney pixar cgi masterpieces refreshing comforting know miyazaki still relying traditional hand drawn animation tell charming enchanting stories
+1,enough not said remarkable animation film
+1,art style appearance crayon pencil drawings wonderfully colorful fanciful
+0,act film glad gonna drift away earth far possible
+0,one wants surf small wave space movies deep impact armageddon one fails everywhere
+0,not choked vomit end cheap drama worthless dialogue must bored death waste time
+1,still makes super ending depicts great sea vessel taken mighty frost
+1,consider excellent story solid acting look film added bonuses
+0,instead got bore fest whiny spoiled brat babysitting
+1,watched two sundays ago march began really enjoy time taped entire thing
+1,well acted done tv movie
+1,judith light one favorite actresses think superb job film
+1,keep watching
+1,sad movie good
+1,not seen movie definitely recommend
+1,lovely usual cutie
+1,still quite interesting entertaining follow
+1,recommend confidence
+1,movie well balanced comedy drama thoroughly enjoyed
+1,riot see hugo weaving play sex obsessed gay real estate salesman uses clients houses trysts flaming darren tom hollander
+1,anyway plot flowed smoothly male bonding scenes hoot
+1,opening sequence gem classic cat n mouse games follow delight watch
+1,fans genre heaven
+1,lange become great actress
+1,looked like wonderful story
+0,never walked movie faster
+0,got bored watching jessice lange take clothes
+0,unfortunately virtue film production work lost regrettable script
+0,word embarrassing
+0,exceptionally bad
+0,insult one intelligence huge waste money
