@@ -1,0 +1,2 @@
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+https://towardsdatascience.com/keras-hyperparameter-tuning-in-google-colab-using-hyperas-624fa4bbf673
