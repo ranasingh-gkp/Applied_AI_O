@@ -1,0 +1,2 @@
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.boxcox.html
+https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.kstest.html
