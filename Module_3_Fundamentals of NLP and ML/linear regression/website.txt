@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=iUm2Z1SKuGk&feature=youtu.be
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
